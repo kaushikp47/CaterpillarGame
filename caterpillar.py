@@ -3,11 +3,11 @@ import random as rd
 
 t.bgcolor('yellow')
 
-caterpillar = t.Turtle()
-caterpillar.shape('square')
-caterpillar.speed(0)
-caterpillar.penup()
-caterpillar.hideturtle()
+# caterpillar = t.Turtle()
+# caterpillar.shape('square')
+# caterpillar.speed(0)
+# caterpillar.penup()
+# caterpillar.hideturtle()
 
 leaf = t.Turtle()
 leaf_shape = ((0,0),(14,2),(18,6),(20,20),(6,18),(2,14))
